@@ -13,10 +13,13 @@
 
 ## Connect with me:
 
-<p align="left">
 
-<a href="https://www.linkedin.com/in/ankit-raj-gupta-207353201" target="blank">
+<p align="left" display="flex" flex-direction="row">
 
-  <img align="center" src="[https://www.flaticon.com/free-icon/linkedin_408703]" alt="LinkedIn img" height="60" width="50" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-raj-gupta-207353201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-raj-gupta-207353201" height="30" width="40" /></a>
+
+<a href="https://fb.com/https://www.facebook.com/arg7957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arg7957" height="30" width="40" /></a>
+
+<a href="https://instagram.com/https://instagram.com/ankit.r.g?igshid=yzg5mtu1mdy=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ankit.r.g?igshid=yzg5mtu1mdy=" height="30" width="40" /></a>
 
 </p>
